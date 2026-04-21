@@ -3,7 +3,7 @@
 **Norwegian Linked Health Registries – Perinatal Cohort | Common Data Model**
 
 > **Institution:** University of Oslo (UiO), Norway
-> **EMA Data Catalogue:** [Quantitative Descriptors](https://catalogues.ema.europa.eu/node/4311/quantitative-descriptors)
+> **EMA Data Catalogue:** [https://catalogues.ema.europa.eu/node/4311](https://catalogues.ema.europa.eu/node/4311/quantitative-descriptors)
 
 ---
 
